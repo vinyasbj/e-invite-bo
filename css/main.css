@@ -132,7 +132,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		padding:20px;
 		border-radius:4px;
 		box-sizing:border-box;
-		z-index:100
+		z-index:100;
+		min-height: -webkit-fill-available;
 	}
 	.dance-med{
 		padding: 6%;
